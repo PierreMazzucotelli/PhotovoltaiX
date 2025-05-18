@@ -29,6 +29,10 @@ Le fichier `Simulation Modal.py` propose diverses fonctions permettant de :
   Plusieurs fonctions (`plot_multiple_iv_curves`, `plot_multiple_iv_curves_Rp`, `plot_multiple_iv_curves_jcc`) permettent d'observer l'impact de la variation de `Rs`, `Rp` ou `jcc` sur la caractéristique I-V.
 
 ---
+## Licence
+Ce projet est sous licence MIT.
+
+---
 
 ## 🧰 Prérequis
 
@@ -37,6 +41,3 @@ Le fichier `Simulation Modal.py` propose diverses fonctions permettant de :
 
 ```bash
 pip install numpy matplotlib scipy
-
-*Licence*
-Ce projet est sous licence MIT.
