@@ -1,4 +1,9 @@
 # PhotovoltaiX
+
+<img src="https://github.com/PierreMazzucotelli/PhotovoltaiX/blob/main/logo.png" alt="Logo du Projet" width="400" height="400">
+
+
+
 Ce dépôt contient un module de simulation destiné à modéliser les caractéristiques électriques et les profils énergétiques d'une jonction p-n, tels qu'utilisés dans les dispositifs photovoltaïques. Il a été réalisé durant le MODAL de physique de la matière condensée en deuxième année à l'Ecole Polytechnique.
 
 ## 📌 Aperçu
