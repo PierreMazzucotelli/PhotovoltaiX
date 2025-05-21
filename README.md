@@ -1,6 +1,6 @@
 # PhotovoltaiX
 
-<img src="https://github.com/PierreMazzucotelli/PhotovoltaiX/blob/main/logo.png" alt="Logo du Projet" width="400" height="400">
+<img src="https://github.com/PierreMazzucotelli/PhotovoltaiX/blob/main/logo2.png" alt="Logo du Projet" width="900" height="600">
 
 
 
